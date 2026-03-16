@@ -27,8 +27,8 @@ const projects = [
       "Resume upload and ATS-style insights",
       "Protected dashboard and recruiter-friendly results",
     ],
-    live: "#",
-    github: "#",
+    live: "https://intervue-ai-phi.vercel.app/",
+    github: "https://github.com/saketh-cell/IntervueAI",
     accentClass: "accent-one",
   },
   {
@@ -43,7 +43,7 @@ const projects = [
       "Backend-driven structure for scalable data handling",
     ],
     live: "#",
-    github: "#",
+    github: "https://github.com/saketh-cell/SuperMarket-Management-System",
     accentClass: "accent-two",
   },
   {
@@ -58,7 +58,7 @@ const projects = [
       "Strong demonstration of UI handling and state control",
     ],
     live: "https://mind-game-lime.vercel.app/",
-    github: "#",
+    github: "https://github.com/saketh-cell/MindGame",
     accentClass: "accent-three",
   },
 ];
